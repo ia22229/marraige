@@ -45,9 +45,3 @@ The repository contains the following key files:
 - Matchmaking Logic
 - Responsive UI (to some extent)
 - Contact Form
-
-## 🏁 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/ia22229/marriage
